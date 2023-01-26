@@ -7,7 +7,7 @@ HTML Landing page for Resturent
 4. A bite of JavaScript and,
 5. A bite of JQuery
 
-#Features:
+# Features:
 * Fully responsive,
 * Optimized code,
 * Optimized Images,
